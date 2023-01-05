@@ -1,0 +1,16 @@
+.result-match-component {
+    font-family: cursive;
+    margin-left: 1200px;
+    margin-top: 40px;
+    border-radius: 20px;
+    box-shadow: rgb(30, 57, 77) 10px 20px 30px 10px;
+    max-width: 1500px;
+    text-align: center;
+}
+
+.font-result {
+    font-size: 80px;
+    display: inline-block;
+    padding: 25px;
+    color: black;
+}

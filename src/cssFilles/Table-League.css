@@ -1,0 +1,16 @@
+.row {
+    font-size: 40px;
+}
+
+.title-header {
+    margin-left: 1700px;
+    font-family: sans-serif;
+    font-size: 100px;
+    color: black
+}
+.message {
+    margin-left: 1400px;
+    font-family: sans-serif;
+    font-size: 100px;
+    color: red;
+}
